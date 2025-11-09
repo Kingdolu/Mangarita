@@ -1,4 +1,4 @@
-# Mangarita
+# MangaScraper
 MangaPark Scraper 🐾
 
 A production-ready Python scraper for MangaPark
